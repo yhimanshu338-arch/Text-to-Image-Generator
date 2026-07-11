@@ -1,0 +1,8 @@
+diffusers
+transformers
+accelerate
+torch==2.11.0 # Pinning torch version for compatibility
+streamlit
+pillow
+matplotlib
+xformers # Added for better diffusers compatibility and performance
